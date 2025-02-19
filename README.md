@@ -3,7 +3,7 @@ Working in a command line environment is recommended for ease of use with git an
 # Project Link
 https://github.com/FirehawkenZul/Deploying-a-Scalable-ML-Pipeline-with-FastAPI
 
-# Environment Set up (pip or conda)
+## Environment Set up (pip or conda)
 * Option 1: use the supplied file `environment.yml` to create a new environment with conda
 * Option 2: use the supplied file `requirements.txt` to create a new environment with pip
     
